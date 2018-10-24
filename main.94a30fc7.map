@@ -1,1 +1,0 @@
-{"version":3,"sources":["../js/main.js"],"names":["console","log"],"mappings":";;;AACA,aADA,QAAA,qBACAA,QAAQC,IAAI","file":"main.94a30fc7.map","sourceRoot":"../src/pages","sourcesContent":["import \"../scss/main.scss\";\nconsole.log('nice')"]}
